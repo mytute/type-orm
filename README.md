@@ -1,2 +1,7 @@
 # type-orm
-tutorial
+
+to install type orm
+
+```bash
+$ npm i typeorm
+```
